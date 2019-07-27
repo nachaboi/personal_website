@@ -1,0 +1,15 @@
+body {
+	background: rgb(166,146,238);
+	background: linear-gradient(90deg, rgba(166,146,238,1) 0%, rgba(9,121,113,1) 100%, rgba(0,212,255,1) 100%);
+/*	background-color: lightgrey;*/
+}
+
+iframe {
+	display:block;
+	width="300";
+	height="169";
+	align="middle";
+	frameborder="0";
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen
+}
